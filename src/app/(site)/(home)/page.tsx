@@ -19,7 +19,7 @@ export default function Home() {
           <div className="mx-auto -mt-0">
             <BookingForm />
           </div>
-          <div className="bg-gray-200 max-h-[300px] mx-auto items-center justify-center mb-10 px-3">
+          <div className="bg-gray-200 max-h-[300px] mx-auto items-center justify-center mb-10 px-3 sm:mb-6">
             <StyledButton text={'NOSSOS SERVICOS'} />
             <h2 className="text-4xl font-bold mb-10 mt-3 text-center text-black">
               Conheça a nossa empresa e entenda por que somos a melhor escolha
