@@ -64,17 +64,17 @@ export function ServicesDoubts() {
       <div className="w-full md:w-1/2 mb-8 md:mb-0">
         <div className="flex flex-col items-start">
           <StyledButton text="FAQ" />
-          <h2 className="text-4xl font-bold mb-10 mt-3">
+          <h2 className="text-4xl font-bold mb-10 mt-3 text-black">
             Erros mais comuns em{' '}
             <span className="text-blue-500">Lava e Seca</span>
           </h2>
         </div>
-        <p className="mb-6">
+        <p className="mb-6 text-black">
           Conheça os problemas mais frequentes nas máquinas de lavar e secar da
           LG e Samsung, e como nossa assistência técnica pode ajudar a
           resolvê-los.
         </p>
-        <p className="mb-6">
+        <p className="mb-6 text-black">
           Nossa equipe está preparada para diagnosticar e reparar esses e outros
           problemas, garantindo que sua Lava e Seca volte a funcionar
           perfeitamente.
