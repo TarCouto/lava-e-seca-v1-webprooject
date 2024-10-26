@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <div className="min-w-full">
+    <div className="min-w-full mb-4">
       <Hero />
       <div className="bg-white min-h-[300px] px-4 mx-auto">
         <div className="bg-gray-200 h-full mx-auto flex flex-col items-center justify-center">
