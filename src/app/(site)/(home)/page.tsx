@@ -21,7 +21,7 @@ export default function Home() {
           </div>
           <div className="bg-gray-200 max-h-[300px] mx-auto items-center justify-center mb-10 px-3">
             <StyledButton text={'NOSSOS SERVICOS'} />
-            <h2 className="text-3xl font-bold mb-10 mt-3 text-center text-black">
+            <h2 className="text-4xl font-bold mb-10 mt-3 text-center text-black">
               Conheça a nossa empresa e entenda por que somos a melhor escolha
               para você
             </h2>
@@ -55,34 +55,34 @@ export default function Home() {
                   />
                 </div>
 
-                <h3 className="text-3xl font-semibold mb-10">
+                <h3 className="text-3xl font-semibold mb-10 text-black">
                   Por que escolher nosso serviço?
                 </h3>
                 <div className="mb-6">
-                  <p>
+                  <p className="text-black">
                     <strong>Expertise e Qualificação:</strong> Técnicos
                     qualificados e treinados nas tecnologias LG e Samsung.
                     Diagnóstico rápido e preciso.
                   </p>
-                  <p>
+                  <p className="text-black">
                     <strong>Qualidade e Agilidade:</strong> Garantimos
                     funcionamento perfeito da sua Lava e Seca no menor tempo
                     possível.
                   </p>
-                  <p>
+                  <p className="text-black">
                     <strong>Preço Justo:</strong> Serviços de alta qualidade a
                     preços competitivos, sem surpresas.
                   </p>
-                  <p>
+                  <p className="text-black">
                     <strong>Taxa Zero de Reclamações:</strong> Compromisso com a
                     satisfação total dos nossos clientes e excelência no
                     atendimento.
                   </p>
-                  <p>
+                  <p className="text-black">
                     <strong>Nossos Serviços:</strong>
                     Manutenção Preventiva, Reparos, Instalação, Suporte Técnico.
                   </p>
-                  <p>
+                  <p className="text-black">
                     Escolha nossa assistência técnica e tenha tranquilidade.
                     Entre em contato conosco hoje mesmo!
                   </p>
