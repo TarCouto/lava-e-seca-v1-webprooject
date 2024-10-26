@@ -12,10 +12,10 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <div className="min-w-full mb-4">
+    <div className="min-w-full">
       <Hero />
       <div className="bg-white min-h-[300px] px-4 mx-auto">
-        <div className="bg-gray-200 h-full mx-auto flex flex-col items-center justify-center">
+        <div className="bg-gray-200 h-full mx-auto flex flex-col items-center justify-center pb-6">
           <div className="mx-auto">
             <BookingForm />
           </div>
