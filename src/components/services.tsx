@@ -88,7 +88,7 @@ export function ServicesDoubts() {
       </div>
 
       <div className="w-full md:w-1/2 bg-white p-10 rounded-lg shadow-lg">
-        <ol className="list-decimal text-left">
+        <ol className="list-decimal text-left marker:text-black">
           {questions.map((item, index) => (
             <li
               key={index}
