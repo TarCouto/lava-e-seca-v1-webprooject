@@ -21,11 +21,11 @@ export default function Home() {
           </div>
           <div className="bg-gray-200 mx-auto items-center justify-center mb-10 px-3 sm:mb-6 text-center">
             <StyledButton text="NOSSOS SERVICOS" />
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-6 mt-3 text-black">
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-6 mt-3 text-black max-w-[1200px] mx-auto ">
               Conheça a nossa empresa e entenda por que somos a melhor escolha
               para você
             </h2>
-            <p className="text-sm sm:text-base md:text-lg mb-2 text-black">
+            <p className="text-sm sm:text-base md:text-lg mb-2 text-black max-w-[1300px] mx-auto text-center">
               Somos uma assistência técnica que iniciou suas atividades em 1998,
               focada no conserto de toda a Linha Branca da LG e outras marcas
               nacionais. Em meados de 2001, passamos a nos especializar
