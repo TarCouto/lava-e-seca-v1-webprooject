@@ -92,7 +92,7 @@ export function ServicesDoubts() {
           {questions.map((item, index) => (
             <li
               key={index}
-              className="cursor-pointer text-lg mb-2 bg-gray-100 p-4 rounded-lg"
+              className="cursor-pointer text-lg mb-2 bg-gray-100 p-4 rounded-lg text-black"
               onClick={() => toggleQuestion(index)}
             >
               <span

@@ -59,7 +59,7 @@ export default function Home() {
                 <h3 className="text-2xl sm:text-3xl font-semibold mb-6 text-black">
                   Por que escolher nosso serviço?
                 </h3>
-                <div className="mb-6 space-y-4">
+                <div className="mb-6 space-y-4 max-w-[300px]">
                   <p className="text-black">
                     <strong>Expertise e Qualificação:</strong> Técnicos
                     qualificados e treinados nas tecnologias LG e Samsung.
