@@ -4,7 +4,7 @@ export function Hero() {
   return (
     <div className=" items-center justify-start w-full -mt-14">
       <div className="bg-white min-w-full px-4">
-        <div className="mx-auto bg-gray-200 max-w-9xl  sm:px-6 sm:py-32 lg:px-5 mb-0">
+        <div className="mx-auto bg-gray-200 max-w-9xl sm:mt-3 sm:px-6 sm:py-32 lg:px-5 mb-0">
           <div className="relative isolate min-h-[600px] overflow-hidden bg-gray-900 px-8 pt-5 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-8 lg:pt-0">
             <svg
               viewBox="0 0 1024 1024"
